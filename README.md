@@ -69,10 +69,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Acknowledgements
 
-Sujit Noronha - [https://www.linkedin.com/in/sujit-noronha-0452171b1]
-</br>
-Askhaye Nair-[https://www.linkedin.com/in/akshaye-nair-aa6007181/]
-</br>
 Dylan Dsouza-[https://www.linkedin.com/in/dylandsouza00/]
 
 <!-- MARKDOWN LINKS & IMAGES -->
