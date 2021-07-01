@@ -51,15 +51,15 @@ You should have the specific OpenVino version installed (openvino 2020.4.287).
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/DylanDsouza00/ResearchInMotion-RIM.ai.git
+   git clone https://github.com/DylanDsouza00/Order-Management-Tool.git
    ```
-3. Install python packages
+2. Do necessary Migrations 
    ```sh
-   pip install -r requirements.txt
+   python manage.py migrate
    ```
-4. Run your project.
+3. Run your server
    ```sh
-   python vino_inf.py
+   python manage.py runserver
    ```
    
   <!-- LICENSE -->
